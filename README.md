@@ -1,4 +1,4 @@
-## 💚 Welcome To Flappy Android 🤖
+## 🕊️ Welcome To Flappy Android 🤖
 Flappy Android is a classic arcade game inspired by the famous Flappy Bird. This game offers endless entertainment and challenges as you navigate a cute Android robot through a series of obstacles.
 
 ## 💚 Features
